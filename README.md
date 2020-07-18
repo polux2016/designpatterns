@@ -1,4 +1,4 @@
-# designpatterns
+# Design Patterns
 My examples with the design patterns
 
 ## Memento
