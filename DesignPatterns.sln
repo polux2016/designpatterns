@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MomentoPattern", "MomentoPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateBehaviorPattern", "StateBehaviorPattern\StateBehaviorPattern.csproj", "{B83C6525-0749-4220-B287-3BDC02042119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyStructuralPattern", "ProxyStructuralPattern\ProxyStructuralPattern.csproj", "{16067784-7FC7-46FD-B613-F17C2B39A599}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{B83C6525-0749-4220-B287-3BDC02042119}.Release|x64.Build.0 = Release|Any CPU
 		{B83C6525-0749-4220-B287-3BDC02042119}.Release|x86.ActiveCfg = Release|Any CPU
 		{B83C6525-0749-4220-B287-3BDC02042119}.Release|x86.Build.0 = Release|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Debug|x64.Build.0 = Debug|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Debug|x86.Build.0 = Debug|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Release|x64.ActiveCfg = Release|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Release|x64.Build.0 = Release|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Release|x86.ActiveCfg = Release|Any CPU
+		{16067784-7FC7-46FD-B613-F17C2B39A599}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
